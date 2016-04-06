@@ -1,0 +1,17 @@
+html {
+  padding: 0;
+  margin: 0;
+  background-color: #FFF;
+}
+
+body {
+  color: #000;
+  font-family: sans-serif;
+  line-height: 1.7;
+}
+
+.wrapper {
+  max-width: 960px;
+  padding: 0 24px;
+  margin: 0 auto;
+}
