@@ -1,7 +1,7 @@
 html {
   padding: 0;
   margin: 0;
-  background-color: #FFF;
+  background-color: #E0E3DA;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  color: orange;
+  color: #A593E0;
 }
 
 .wrapper {
